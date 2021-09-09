@@ -2,7 +2,7 @@
 
 ⌛ Pomodoro Timer is a productivity app designed for your work and study. Stay focused and finish tasks effectively.
 
-### Live Demo: `https://minimal-pomodoro-timer.netlify.app`
+### Live Demo: (https://minimal-pomodoro-timer.netlify.app)
 
 ## How to run the project
 
